@@ -1,0 +1,13 @@
+tweet,label,TextBlob_Sentiment,VADER_Sentiment,Transformer_Sentiment,Sentiment_Category,Tokens,Dominant_Topic
+your feedback is appreciated now pay  8,Harassment,0.2,0.4404,POSITIVE,Positive,"['feedback', 'appreciated', 'pay']",4
+the edia wants to take down x they arent even hiding it anyore,Positive Sentiment,0.0222222222222222,0.2235,NEGATIVE,Positive,"['edia', 'wants', 'take', 'x', 'arent', 'even', 'hiding', 'anyore']",1
+that is the last refuge of the woke ind parasite,Positive Sentiment,0.0,0.0,NEGATIVE,Neutral,"['last', 'refuge', 'woke', 'ind', 'parasite']",4
+bluesky has a pedo proble its becoe a haven for minor attracted persons,Positive Sentiment,-0.05,0.4215,NEGATIVE,Positive,"['bluesky', 'pedo', 'proble', 'becoe', 'minor', 'attracted', 'persons']",2
+what a coincidence,Other,0.0,0.0,POSITIVE,Neutral,['coincidence'],2
+incredible shot by snap people are going to ride this skyscraper of an interplanetary rocket in the not too distant future and begin the greatest adventure in huan history,Positive Sentiment,0.45,0.7579,POSITIVE,Positive,"['incredible', 'shot', 'snap', 'people', 'going', 'ride', 'skyscraper', 'interplanetary', 'rocket', 'distant', 'future', 'begin', 'greatest', 'adventure', 'huan', 'history']",0
+dont teach your children at hoe or they will be bored at school thats crazy,Offensive Language,-0.55,-0.5423,NEGATIVE,Negative,"['dont', 'teach', 'children', 'hoe', 'bored', 'school', 'thats', 'crazy']",1
+my children are not hoeschooled but this is 100  and their teachers told e to stop doing it because y kids will end up getting bored and not feeling challenged in school currently looking at options,Personal Attacks,-0.25,-0.6768,NEGATIVE,Negative,"['children', 'hoeschooled', 'teachers', 'told', 'e', 'stop', 'kids', 'end', 'getting', 'bored', 'feeling', 'challenged', 'school', 'currently', 'looking', 'options']",0
+for a thousand reasons is and always will be y favorite watch,Offensive Language,0.5,0.4588,POSITIVE,Positive,"['thousand', 'reasons', 'always', 'favorite', 'watch']",3
+that was a great one,Other,0.8,0.6249,POSITIVE,Positive,"['great', 'one']",1
+the people of britain have had enough of a tyrannical police state,Positive Sentiment,0.0,0.0,NEGATIVE,Neutral,"['people', 'britain', 'enough', 'tyrannical', 'police', 'state']",0
+breaking  the petition calling for a new general election in britain has reached 1 illion signatures people are tired of socialist tyranny police state,Positive Sentiment,-0.0712121212121212,-0.3612,NEGATIVE,Negative,"['breaking', 'petition', 'calling', 'new', 'general', 'election', 'britain', 'reached', 'illion', 'signatures', 'people', 'tired', 'socialist', 'tyranny', 'police', 'state']",2

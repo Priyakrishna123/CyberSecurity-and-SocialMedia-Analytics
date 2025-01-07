@@ -1,0 +1,596 @@
+tweet,label
+You should be ashamed of yourself.,Personal Attacks
+"You did an amazing job, keep it up!",Positive Sentiment
+You're so worthless. No one wants you around.,Cyberbullying
+I'll make sure you regret ever crossing me.,Harassment
+You're so worthless. No one wants you around.,Cyberbullying
+I'll make sure you regret ever crossing me.,Harassment
+"It is what it is, nothing more to say.",Neutral Sentiment
+Just finished reading a great book.,Other
+You don't belong here; go back to where you came from.,Hate Speech
+I can't believe how dumb you are. Get a life!,Cyberbullying
+"You did an amazing job, keep it up!",Positive Sentiment
+People like you are ruining this country.,Hate Speech
+"Today has been terrible, nothing went right.",Negative Sentiment
+"Today has been terrible, nothing went right.",Negative Sentiment
+You don't belong here; go back to where you came from.,Hate Speech
+I'll make sure you regret ever crossing me.,Harassment
+I'll make sure you regret ever crossing me.,Harassment
+"You're a failure, and everyone knows it.",Personal Attacks
+You don't belong here; go back to where you came from.,Hate Speech
+"It is what it is, nothing more to say.",Neutral Sentiment
+Does anyone know what time the meeting is?,Other
+This is the best day ever! I'm so grateful.,Positive Sentiment
+"You're such a loser, always messing things up.",Offensive Language
+This is the best day ever! I'm so grateful.,Positive Sentiment
+I'll make sure you regret ever crossing me.,Harassment
+"You're a failure, and everyone knows it.",Personal Attacks
+"You're such a loser, always messing things up.",Offensive Language
+I can't believe how dumb you are. Get a life!,Cyberbullying
+"It is what it is, nothing more to say.",Neutral Sentiment
+"I feel like giving up, everything is so hard.",Negative Sentiment
+"Just another day at work, nothing special.",Neutral Sentiment
+You better watch your back from now on.,Harassment
+Just finished reading a great book.,Other
+You should be ashamed of yourself.,Personal Attacks
+"Today has been terrible, nothing went right.",Negative Sentiment
+I can't believe how dumb you are. Get a life!,Cyberbullying
+"Today has been terrible, nothing went right.",Negative Sentiment
+"You did an amazing job, keep it up!",Positive Sentiment
+You better watch your back from now on.,Harassment
+You should be ashamed of yourself.,Personal Attacks
+Does anyone know what time the meeting is?,Other
+"You're a failure, and everyone knows it.",Personal Attacks
+I can't believe how dumb you are. Get a life!,Cyberbullying
+You're so worthless. No one wants you around.,Cyberbullying
+I'll make sure you regret ever crossing me.,Harassment
+"You're such a loser, always messing things up.",Offensive Language
+"You're such a loser, always messing things up.",Offensive Language
+"You did an amazing job, keep it up!",Positive Sentiment
+"Just another day at work, nothing special.",Neutral Sentiment
+I can't believe how dumb you are. Get a life!,Cyberbullying
+"Today has been terrible, nothing went right.",Negative Sentiment
+You're so worthless. No one wants you around.,Cyberbullying
+"Today has been terrible, nothing went right.",Negative Sentiment
+You don't belong here; go back to where you came from.,Hate Speech
+You should be ashamed of yourself.,Personal Attacks
+"I feel like giving up, everything is so hard.",Negative Sentiment
+Just finished reading a great book.,Other
+"You're a failure, and everyone knows it.",Personal Attacks
+"Just another day at work, nothing special.",Neutral Sentiment
+"Today has been terrible, nothing went right.",Negative Sentiment
+I'll make sure you regret ever crossing me.,Harassment
+Your stupidity knows no bounds.,Offensive Language
+I can't believe how dumb you are. Get a life!,Cyberbullying
+People like you are ruining this country.,Hate Speech
+"I feel like giving up, everything is so hard.",Negative Sentiment
+"It is what it is, nothing more to say.",Neutral Sentiment
+"Today has been terrible, nothing went right.",Negative Sentiment
+"You did an amazing job, keep it up!",Positive Sentiment
+"Today has been terrible, nothing went right.",Negative Sentiment
+"I feel like giving up, everything is so hard.",Negative Sentiment
+I'll make sure you regret ever crossing me.,Harassment
+"You're a failure, and everyone knows it.",Personal Attacks
+Your stupidity knows no bounds.,Offensive Language
+"I feel like giving up, everything is so hard.",Negative Sentiment
+Does anyone know what time the meeting is?,Other
+I'll make sure you regret ever crossing me.,Harassment
+"It is what it is, nothing more to say.",Neutral Sentiment
+"Today has been terrible, nothing went right.",Negative Sentiment
+You don't belong here; go back to where you came from.,Hate Speech
+People like you are ruining this country.,Hate Speech
+This is the best day ever! I'm so grateful.,Positive Sentiment
+"I feel like giving up, everything is so hard.",Negative Sentiment
+"You did an amazing job, keep it up!",Positive Sentiment
+"You're a failure, and everyone knows it.",Personal Attacks
+"Just another day at work, nothing special.",Neutral Sentiment
+"You're such a loser, always messing things up.",Offensive Language
+I'll make sure you regret ever crossing me.,Harassment
+Your stupidity knows no bounds.,Offensive Language
+"I feel like giving up, everything is so hard.",Negative Sentiment
+You are nothing but a complete waste of space.,Cyberbullying
+You should really just disappear from this world.,Cyberbullying
+Nobody likes you and they never will.,Personal Attacks
+How are you this clueless about life?,Offensive Language
+Just finished watching a fantastic movie.,Other
+You're ruining everything with your stupid opinions.,Hate Speech
+I hope you fail miserably at everything you try.,Cyberbullying
+You're not welcome here; just leave.,Hate Speech
+Does anyone know if the cafeteria is open today?,Other
+You are so brave and inspirational keep going!,Positive Sentiment
+I can’t take this anymore; life is so hard.,Negative Sentiment
+You're a complete joke; nobody takes you seriously.,Personal Attacks
+This is one of the happiest moments of my life.,Positive Sentiment
+You better watch what you say or you'll regret it.,Harassment
+I feel like nothing is going right in my life.,Negative Sentiment
+You're such a loser always screwing things up.,Offensive Language
+You’re an absolute disgrace to your family.,Personal Attacks
+It’s a beautiful day to go outside and enjoy nature.,Positive Sentiment
+You seriously think anyone likes being around you?,Cyberbullying
+No one wants you here; go back to your own country.,Hate Speech
+Just another boring day at the office.,Neutral Sentiment
+I’m grateful for all the good things happening today.,Positive Sentiment
+You better stay out of my way if you know what’s good for you.,Harassment
+Your stupidity knows no bounds; it’s unbelievable.,Offensive Language
+I’m done trying; nothing ever works out for me.,Negative Sentiment
+You have no right to exist in this society.,Hate Speech
+It is what it is nothing much to say about it.,Neutral Sentiment
+You're a failure; everyone knows it.,Personal Attacks
+Can someone help me figure out this new software?,Other
+You don’t deserve anything good in life.,Cyberbullying
+This has been the worst day ever; I can't deal with it.,Negative Sentiment
+You act like you're important but you're a nobody.,Personal Attacks
+You are the kindest person I’ve ever met.,Positive Sentiment
+Nobody would care if you just disappeared.,Cyberbullying
+I had such a productive day at work today.,Positive Sentiment
+You’re too weak to handle anything on your own.,Personal Attacks
+Stop posting such dumb things online; it’s embarrassing.,Offensive Language
+I’m looking forward to the weekend; it’s going to be fun!,Positive Sentiment
+You better keep quiet if you know what’s good for you.,Harassment
+Why are you even here? You’re not wanted.,Hate Speech
+Today was absolutely exhausting; I feel drained.,Negative Sentiment
+You’re such an idiot; I can’t stand you.,Offensive Language
+I just finished reading the best novel ever.,Other
+You're such a waste of oxygen; stop talking.,Cyberbullying
+I’m so thankful for all the love and support I have.,Positive Sentiment
+You’re nothing more than a pathetic loser.,Personal Attacks
+It’s amazing how you manage to mess up everything.,Offensive Language
+Just another day of surviving in this crazy world.,Neutral Sentiment
+Everyone knows you’re a fraud; just give up already.,Cyberbullying
+You’re the reason this world is a terrible place.,Hate Speech
+Life is so hard; I feel like giving up.,Negative Sentiment
+This is the best day ever; I’m so excited!,Positive Sentiment
+Why don’t you just disappear and save everyone the trouble?,Cyberbullying
+Can someone tell me the train schedule?,Other
+I can’t believe how incredibly stupid you are.,Offensive Language
+You better stay in your lane or else.,Harassment
+How are you even allowed to speak in public?,Personal Attacks
+Nobody cares about you or what you think.,Abusive Language
+I’m feeling so optimistic about the future right now.,Positive Sentiment
+You're such a horrible person; no one wants you around.,Cyberbullying
+You have no idea how much pain you cause everyone.,Personal Attacks
+It’s a wonderful day to go out and explore.,Positive Sentiment
+Your opinion is trash and so are you.,Hate Speech
+You better watch your back because I’m coming for you.,Harassment
+Just another day nothing special to report.,Neutral Sentiment
+I’m so frustrated; everything is falling apart.,Negative Sentiment
+I hope you fail at everything you attempt.,Cyberbullying
+You’re so dumb; it’s honestly impressive.,Offensive Language
+You’re the kindest most thoughtful person I know.,Positive Sentiment
+Nobody wants you here so why don’t you just leave?,Hate Speech
+It’s been a rough day but I’m trying to stay positive.,Neutral Sentiment
+
+Why don’t you just stop breathing already?,Cyberbullying
+I feel so inspired after meeting such wonderful people.,Positive Sentiment
+
+You’re such a waste of everyone’s time.,Personal Attacks
+What time does the bus arrive today?,Other
+It’s a great day to be alive; I’m feeling so grateful.,Positive Sentiment
+You think you’re smart but you’re just pathetic.,Abusive Language
+You better stay away from me or else.,Harassment
+Everyone would be happier if you weren’t around.,Cyberbullying
+Life is so challenging; I feel like giving up sometimes.,Negative Sentiment
+You’re such a loser; nobody wants to deal with you.,Offensive Language
+I love spending time with my family; they’re amazing.,Positive Sentiment
+
+Can someone recommend a good book to read?,Other
+I can’t believe how much of a failure you are.,Personal Attacks
+You don’t belong here; go back to where you came from.,Hate Speech
+I’m looking forward to a relaxing weekend.,Positive Sentiment
+
+You’re such an idiot; you ruin everything.,Offensive Language
+You should be ashamed of your disgusting behavior.,Personal Attacks
+I feel like the luckiest person alive right now.,Positive Sentiment
+Why are you always so useless? Get out of my face.,Abusive Language
+You’re ruining this country with your stupidity.,Hate Speech
+Can someone help me fix this technical issue?,Other
+You better watch yourself or things will get ugly.,Harassment
+
+It’s so hard to stay positive when everything goes wrong.,Negative Sentiment
+You’re nothing more than a sad excuse for a person.,Personal Attacks
+Why are you still here? Nobody wants you.,Cyberbullying
+You are so brave and inspiring; never stop being you.,Positive Sentiment
+Your opinions are garbage and so are you.,Hate Speech
+I just had the most delicious meal ever!,Positive Sentiment
+You better stay silent if you know what’s good for you.,Harassment
+
+Can anyone recommend a fun weekend activity?,Other
+You’re completely useless; everyone knows it.,Personal Attacks
+I’m grateful for all the good things in my life today.,Positive Sentiment
+You don’t deserve to be treated like a human.,Hate Speech
+Nobody would miss you if you disappeared.,Cyberbullying
+Life has been so hard lately; I feel hopeless.,Negative Sentiment
+You’re the reason everything is falling apart.,Abusive Language
+It’s amazing how much you inspire those around you.,Positive Sentiment
+You’re such a pathetic excuse for a human being.,Personal Attacks
+Nobody likes you because you’re so fake.,Abusive Language
+It’s such a peaceful evening; I’m loving it.,Positive Sentiment
+You better stop talking before you regret it.,Harassment
+I hope you fail at everything you try.,Cyberbullying
+Can someone explain this concept to me?,Other
+
+I can’t believe how stupid you are sometimes.,Offensive Language
+
+Today has been one of the worst days ever.,Negative Sentiment
+You’re so amazing; I’m lucky to know you.,Positive Sentiment
+You’re the reason this world is such a mess.,Hate Speech
+Nobody respects you because you’re a failure.,Personal Attacks
+Life feels so overwhelming; I can’t handle it.,Negative Sentiment
+You don’t belong here; just leave already.,Hate Speech
+Can anyone recommend a good movie to watch?,Other
+You’re such an inspiration to everyone around you.,Positive Sentiment
+You better keep your mouth shut or else.,Harassment
+You’re so stupid; it’s honestly embarrassing.,Offensive Language
+I’m so thankful for everything I have in my life.,Positive Sentiment
+Why do you even bother? Nobody cares about you.,Cyberbullying
+I love how peaceful it is in the evenings.,Positive Sentiment
+You better watch your back; you’ve made enemies.,Harassment
+You’re a failure; everyone knows it.,Personal Attacks
+Why don’t you just disappear already?,Cyberbullying
+Does anyone know if the store is open late tonight?,Other
+Life is so frustrating; I feel like nothing works out.,Negative Sentiment
+You’re so kind and thoughtful; I really appreciate you.,Positive Sentiment
+You’re such a loser; everyone laughs at you behind your back.,Offensive Language
+Why don’t you go back to where you came from?,Hate Speech
+
+Life has been so hard lately; I feel hopeless.,Negative Sentiment
+You’re so amazing; you inspire me every day.,Positive Sentiment
+Why are you still here? You’re not wanted.,Cyberbullying
+Can someone help me understand this topic better?,Other
+You’re the kindest most caring person I know.,Positive Sentiment
+
+Why do you even bother trying? You’re a failure.,Personal Attacks
+You’re such a horrible person; nobody likes you.,Cyberbullying
+Can someone recommend a good podcast to listen to?,Other
+Life has been so tough lately; I’m struggling.,Negative Sentiment
+You’re such a failure; nobody takes you seriously.,Personal Attacks
+
+It’s been a tough day but I’m staying hopeful.,Neutral Sentiment
+You’re the best friend anyone could ever ask for.,Positive Sentiment
+You better stay out of my way from now on.,Harassment
+You’re the dumbest person I’ve ever met.,Offensive Language
+You’re absolutely terrible at everything you do.,Personal Attacks
+"Had a fantastic day at work today!",Positive Sentiment
+
+You better stop spreading lies about me.,Harassment
+This is the most beautiful sunset I’ve ever seen.,Positive Sentiment
+You don’t belong here; leave now.,Hate Speech
+Feeling so down today; nothing seems to go right.,Negative Sentiment
+"Can someone recommend a good place to eat?",Other
+You’re the reason nobody likes being here.,Cyberbullying
+Why can’t you just do something right for once?,Offensive Language
+I’m so grateful for my supportive friends.,Positive Sentiment
+
+Life is hard but I’ll keep pushing forward.,Neutral Sentiment
+"Why don’t you just leave and never come back?",Cyberbullying
+Had a relaxing walk in the park today.,Positive Sentiment
+You’re nothing but a waste of space.,Personal Attacks
+This project is going to be incredible when it’s done!,Positive Sentiment
+Nobody wants you here; go away.,Cyberbullying
+Does anyone know when the meeting starts?,Other
+
+Feeling inspired by all the creativity around me.,Positive Sentiment
+"Why do you always ruin everything for everyone?",Offensive Language
+You’re pathetic and nobody respects you.,Personal Attacks
+Just finished reading an amazing novel.,Positive Sentiment
+You better not cross me again if you know what’s good.,Harassment
+"Can someone help me understand this concept?",Other
+You’re the kindest person I’ve ever met.,Positive Sentiment
+
+I’m feeling so much gratitude for today’s opportunities.,Positive Sentiment
+Life has been so stressful lately.,Negative Sentiment
+You don’t deserve the kindness people show you.,Personal Attacks
+Why don’t you just disappear already?,Cyberbullying
+Does anyone have tips for staying organized?,Other
+This has been the best day of my life!,Positive Sentiment
+You’re ruining this community with your stupidity.,Hate Speech
+"Life feels overwhelming sometimes, but I’m trying.",Neutral Sentiment
+You better not show your face here again.,Harassment
+
+I love how supportive my friends are.,Positive Sentiment
+You’re a complete embarrassment to everyone.,Personal Attacks
+Feeling so overwhelmed; everything is piling up.,Negative Sentiment
+Why don’t you just shut up already?,Offensive Language
+You’re so talented; keep up the great work!,Positive Sentiment
+Nobody respects you because you’re such a failure.,Personal Attacks
+Can someone recommend a good movie for tonight?,Other
+You better watch yourself before things get worse.,Harassment
+"You’re such a loser, always messing everything up.",Cyberbullying
+Life is tough but I’m thankful for the little things.,Neutral Sentiment
+This is the best coffee I’ve ever had!,Positive Sentiment
+"Why don’t you just stop being so useless?",Offensive Language
+
+
+Feeling grateful for all the love and support in my life.,Positive Sentiment
+"You’re not welcome here; go back to your country.",Hate Speech
+This is such a relaxing evening; I’m loving it.,Positive Sentiment
+"Can someone help me fix this technical problem?",Other
+
+Feeling so excited about the opportunities ahead!,Positive Sentiment
+You don’t deserve to be treated like a human being.,Hate Speech
+Why don’t you just leave and never come back?,Cyberbullying
+"Feeling so much pressure lately, it’s overwhelming.",Negative Sentiment
+You’re such an inspiration to everyone who knows you.,Positive Sentiment
+
+"Can anyone recommend a fun weekend activity?",Other
+You’re the dumbest person in the room always.,Personal Attacks
+
+
+Life is full of challenges but I’m staying hopeful.,Neutral Sentiment
+"Why don’t you just go back to where you came from?",Hate Speech
+Feeling so lucky to have such wonderful friends.,Positive Sentiment
+You’re completely useless and everyone knows it.,Personal Attacks
+Nobody wants you around; just leave.,Cyberbullying
+"Life can be hard, but I’m trying to stay positive.",Neutral Sentiment
+Had the best day exploring new places with friends!,Positive Sentiment
+
+"Can someone suggest a good book to read?",Other
+Why do you always mess things up for everyone?,Offensive Language
+Feeling so blessed for all the love in my life.,Positive Sentiment
+
+
+You’re such a kind and caring soul.,Positive Sentiment
+You don’t belong here; just leave already.,Hate Speech
+"Life has been so tough lately; I feel drained.",Negative Sentiment
+You better keep your mouth shut from now on.,Harassment
+Does anyone know how to solve this problem?,Other
+Why do you even try? You’ll never succeed.,Personal Attacks
+Feeling excited for all the new opportunities ahead!,Positive Sentiment
+
+Why don’t you just stop breathing already?,Cyberbullying
+Feeling so relaxed after a peaceful evening walk.,Positive Sentiment
+"Why don’t you just leave? Nobody wants you here.",Hate Speech
+
+"Can someone help me with this homework?",Other
+This is such a wonderful moment; I’ll cherish it forever.,Positive Sentiment
+Feeling frustrated with how everything is going.,Negative Sentiment
+You’re an amazing friend and I’m lucky to know you.,Positive Sentiment
+
+Feeling so inspired to take on new challenges.,Positive Sentiment
+Why do you always bring everyone down?,Offensive Language
+You’re nothing but a failure; just give up.,Personal Attacks
+Feeling overwhelmed but I know I’ll get through it.,Neutral Sentiment
+This has been such a tough week; I’m exhausted.,Negative Sentiment
+Nobody would miss you if you disappeared.,Cyberbullying
+You’re such a failure; it’s embarrassing.,Personal Attacks
+Life is hard but I’m grateful for the little things.,Neutral Sentiment
+You don’t belong here; go back to where you came from.,Hate Speech
+Feeling grateful for all the blessings in my life.,Positive Sentiment
+"Can anyone recommend a good podcast to listen to?",Other
+
+Feeling excited for all the good things coming my way!,Positive Sentiment
+You are an absolute disgrace to humanity.,Personal Attacks
+This coffee is the best thing about my day.,Positive Sentiment
+
+
+Don’t make me come for you next time.,Harassment
+I’m so excited for the weekend with friends!,Positive Sentiment
+You’re a waste of everyone’s time and energy.,Personal Attacks
+Nothing went right today; I feel defeated.,Negative Sentiment
+Can someone tell me where to find this product?,Other
+You’re so incompetent it’s painful to watch.,Cyberbullying
+Why are you always so stupid and useless?,Offensive Language
+Your kindness has truly made my day better.,Positive Sentiment
+
+This has been such a peaceful and relaxing evening.,Neutral Sentiment
+Why don’t you just vanish? Nobody wants you here.,Cyberbullying
+Had an amazing dinner with family tonight.,Positive Sentiment
+You’re completely useless and everyone knows it.,Personal Attacks
+Grateful for the opportunities I’ve had recently.,Positive Sentiment
+
+Does anyone know how to fix this technical error?,Other
+You’re the most toxic person I’ve ever met.,Cyberbullying
+I can’t believe how much I’ve accomplished today!,Positive Sentiment
+You’re ruining everything with your ignorance.,Hate Speech
+I’m feeling so down; nothing is working out.,Negative Sentiment
+You’ll regret this decision for the rest of your life.,Harassment
+You’re truly an inspiration to everyone around you.,Positive Sentiment
+
+This view is breathtaking; I’m so lucky to witness it.,Positive Sentiment
+Life feels overwhelming lately; I’m trying my best.,Neutral Sentiment
+Nobody wants your pathetic excuses anymore.,Personal Attacks
+Why do you even bother trying? You’ll fail.,Cyberbullying
+"Can anyone recommend a quiet study spot?",Other
+You’re the reason everyone here is miserable.,Hate Speech
+Feeling so much joy seeing my family after a long time.,Positive Sentiment
+
+I’m thankful for the little things that bring me happiness.,Positive Sentiment
+You better watch your back; this isn’t over.,Harassment
+Nobody respects you because you’re such a joke.,Personal Attacks
+Feeling hopeful despite the challenges ahead.,Neutral Sentiment
+"Can someone help me with this tricky math problem?",Other
+You’re a complete embarrassment; just quit.,Personal Attacks
+Grateful for all the positive changes happening in my life.,Positive Sentiment
+
+Why don’t you just stop talking forever?,Cyberbullying
+Feeling motivated to take on new challenges.,Positive Sentiment
+
+Why do you ruin everything you touch?,Hate Speech
+Feeling inspired by all the creativity around me.,Positive Sentiment
+You’re a failure and everyone knows it.,Personal Attacks
+This was one of the most challenging days but I made it.,Neutral Sentiment
+Why are you even here? Nobody likes you.,Cyberbullying
+Had a fun evening catching up with old friends.,Positive Sentiment
+
+Why don’t you just leave us all alone?,Cyberbullying
+"Life feels tough, but I’m staying optimistic.",Neutral Sentiment
+Your ignorance is unbearable and ruins everything.,Hate Speech
+"Can someone recommend a movie to watch this weekend?",Other
+You’re such a kind-hearted person; thank you for everything.,Positive Sentiment
+Nobody would notice if you disappeared.,Cyberbullying
+"Life is so unpredictable, but I’m embracing it.",Neutral Sentiment
+Why do you keep embarrassing yourself in public?,Personal Attacks
+Feeling grateful for the love and support in my life.,Positive Sentiment
+
+Why are you even trying? You’ll never succeed.,Cyberbullying
+"Can someone recommend a good recipe for dinner?",Other
+Feeling so relieved after finishing all my tasks.,Positive Sentiment
+You’re an idiot plain and simple.,Abusive Language
+You’re a waste of everyone’s time and resources.,Personal Attacks
+Life is tough but I’m learning to adapt.,Neutral Sentiment
+Why are you always so difficult to deal with?,Offensive Language
+"Feeling so blessed to have such amazing friends!",Positive Sentiment
+Nobody wants you around; just leave us alone.,Cyberbullying
+Life feels overwhelming but I’m pushing through.,Neutral Sentiment
+
+Feeling thankful for the little things that bring joy.,Positive Sentiment
+You’re not welcome here; leave immediately.,Hate Speech
+Life has been tough but I’m staying hopeful.,Neutral Sentiment
+
+You’re such a loser; it’s embarrassing.,Personal Attacks
+Feeling motivated to work towards my goals.,Positive Sentiment
+Why do you keep ruining everything you touch?,Hate Speech
+"Life has been stressful lately, but I’m managing.",Neutral Sentiment
+Had a wonderful day exploring new places.,Positive Sentiment
+
+Why don’t you just stop pretending to be important?,Cyberbullying
+Feeling excited about the future and new opportunities.,Positive Sentiment
+Nobody respects you because you’re so incompetent.,Personal Attacks
+Why are you always ruining everyone’s plans?,Hate Speech
+Grateful for all the small victories this week.,Positive Sentiment
+"Can anyone recommend a podcast about technology?",Other
+You’re the reason nobody wants to be part of this group.,Cyberbullying
+Life feels challenging but I’m staying strong.,Neutral Sentiment
+Feeling inspired to achieve great things today.,Positive Sentiment
+Why don’t you just disappear? Nobody cares.,Cyberbullying
+"Feeling proud of how far I’ve come in my journey.",Positive Sentiment
+
+Feeling grateful for all the love around me.,Positive Sentiment
+You’re ruining this community with your stupidity.,Hate Speech
+Why do you even try? Everyone knows you’ll fail.,Personal Attacks
+"Life has been tough lately, but I’m holding on.",Neutral Sentiment
+This is such a peaceful and calm evening.,Positive Sentiment
+
+Life is hard but I’m grateful for the little joys.,Neutral Sentiment
+"Can someone suggest a fun activity for a group?",Other
+Nobody cares about you or your ridiculous ideas.,Cyberbullying
+Feeling hopeful for a brighter future ahead.,Positive Sentiment
+You’re an embarrassment to everyone who knows you.,Personal Attacks
+Today was such a productive day; feeling accomplished!,Positive Sentiment
+
+You better stay away or you’ll regret it.,Harassment
+Grateful for a lovely evening spent with friends.,Positive Sentiment
+
+Life is hard but I’m trying my best to stay positive.,Neutral Sentiment
+Does anyone know where I can find a good mechanic?,Other
+You’re so dumb; it’s hard to believe you’re real.,Cyberbullying
+Why do you keep making such terrible decisions?,Offensive Language
+Your encouragement has made such a difference for me.,Positive Sentiment
+You’re a failure and you’ll always be one.,Abusive Language
+Enjoying a calm and peaceful afternoon with my family.,Positive Sentiment
+Why don’t you just leave everyone alone?,Cyberbullying
+Feeling excited about the opportunities coming my way!,Positive Sentiment
+
+You’re the most ungrateful person I’ve ever met.,Hate Speech
+Life feels overwhelming but I’m determined to keep going.,Neutral Sentiment
+You’re completely useless; nobody wants you here.,Personal Attacks
+Why do you even bother trying to fit in?,Cyberbullying
+"Can someone recommend a good restaurant nearby?",Other
+Feeling so blessed to have supportive people in my life.,Positive Sentiment
+You’re the reason everything here is falling apart.,Hate Speech
+Had a tough day but I’m learning from the challenges.,Neutral Sentiment
+Why do you always ruin everything with your stupidity?,Harassment
+Your positivity has been such an inspiration to me.,Positive Sentiment
+
+Enjoying a beautiful sunset by the beach.,Positive Sentiment
+You’re so ignorant; it’s unbearable.,Personal Attacks
+Why don’t you just disappear? Nobody would miss you.,Cyberbullying
+Feeling grateful for the little moments of joy today.,Positive Sentiment
+Why are you so incapable of doing anything right?,Hate Speech
+Life feels tough but I’m grateful for the lessons.,Neutral Sentiment
+
+Why do you keep embarrassing yourself in public?,Cyberbullying
+Grateful for a peaceful day filled with positivity.,Positive Sentiment
+You’re ruining everyone’s lives with your incompetence.,Hate Speech
+"Can anyone help me figure out this tech issue?",Other
+Feeling motivated to tackle my goals this week.,Positive Sentiment
+
+You’re the reason nobody feels welcome here.,Hate Speech
+Feeling hopeful despite the challenges I’ve faced.,Neutral Sentiment
+Why don’t you just quit? You’re not good enough.,Cyberbullying
+Enjoyed a wonderful dinner with my family tonight.,Positive Sentiment
+You’re the most annoying person I’ve ever met.,Personal Attacks
+Life has been overwhelming but I’m managing.,Neutral Sentiment
+Why do you ruin everything you’re involved in?,Hate Speech
+Your encouragement always brightens my day.,Positive Sentiment
+
+Feeling so thankful for the opportunities coming my way.,Positive Sentiment
+Why are you even trying to make a difference?,Cyberbullying
+Life is tough but I’m staying positive and hopeful.,Neutral Sentiment
+You’re the dumbest person in this entire group.,Personal Attacks
+Enjoying a peaceful walk in the park this morning.,Positive Sentiment
+
+Why do you keep bothering people who don’t care about you?,Cyberbullying
+Grateful for the small victories I achieved this week.,Positive Sentiment
+Why don’t you just stop pretending to be important?,Hate Speech
+Feeling proud of how far I’ve come in my journey.,Positive Sentiment
+Nobody would notice if you weren’t here.,Cyberbullying
+Life is unpredictable but I’m learning to embrace it.,Neutral Sentiment
+You’re the most toxic person I’ve ever encountered.,Personal Attacks
+Had a relaxing day and got so much done!,Positive Sentiment
+
+Why do you keep trying when everyone knows you’ll fail?,Cyberbullying
+Enjoying a quiet and peaceful evening at home.,Positive Sentiment
+You’re an absolute disgrace to everyone.,Hate Speech
+Life is overwhelming right now but I’m hopeful.,Neutral Sentiment
+Nobody wants to hear your ridiculous ideas anymore.,Abusive Language
+You’re such a loser; it’s embarrassing.,Personal Attacks
+Feeling inspired to work on my personal goals today.,Positive Sentiment
+Why do you keep ruining everything you touch?,Hate Speech
+Grateful for all the little things that bring me joy.,Positive Sentiment
+Nobody cares about you or your problems.,Cyberbullying
+Why are you still trying? It’s pointless.,Personal Attacks
+Feeling so motivated to start new projects.,Positive Sentiment
+Why do you keep making life harder for everyone?,Hate Speech
+Grateful for the love and support of my family.,Positive Sentiment
+"Can anyone recommend a book for self-improvement?",Other
+You’re the reason nobody wants to be in this group.,Cyberbullying
+Life feels challenging but I’m learning to adapt.,Neutral Sentiment
+Feeling inspired by all the progress I’ve made recently.,Positive Sentiment
+Why don’t you just give up? Nobody cares about you.,Cyberbullying
+
+Feeling thankful for the support of my friends and family.,Positive Sentiment
+You’re ruining this place with your ignorance.,Hate Speech
+Why do you even try? Everyone knows you’ll fail.,Personal Attacks
+Enjoyed a peaceful moment with my favorite book today.,Positive Sentiment
+Life has been tough but I’m holding on to hope.,Neutral Sentiment
+
+Nobody would notice if you weren’t around.,Cyberbullying
+Life is hard but I’m finding reasons to stay positive.,Neutral Sentiment
+"Can anyone suggest a fun activity for the weekend?",Other
+Feeling motivated to tackle the week ahead.,Positive Sentiment
+You’re the reason everything here is falling apart.,Hate Speech
+
+Why do you keep embarrassing yourself with your stupidity?,Cyberbullying
+Feeling blessed to have so much love in my life.,Positive Sentiment
+Why don’t you just stop pretending you matter?,Cyberbullying
+Enjoying a relaxing and productive day.,Positive Sentiment
+Nobody wants to be around someone as toxic as you.,Personal Attacks
+Feeling excited for the new opportunities ahead.,Positive Sentiment
+Why are you even trying to make things better?,Hate Speech
+Grateful for the small moments of peace in my day.,Positive Sentiment
+Feeling optimistic about the changes happening in my life.,Positive Sentiment
+Why do you keep ruining everyone’s day with your nonsense?,Hate Speech
+"Can anyone suggest a good movie to watch tonight?",Other
+Feeling proud of the progress I’ve made recently.,Positive Sentiment
+Why do you bother trying when you always fail?,Cyberbullying
+
+Life feels overwhelming but I’m grateful for the lessons.,Neutral Sentiment
+Feeling thankful for the chance to spend time with loved ones.,Positive Sentiment
+my fat ass cousin in the house,Abusive Language
+why beomhan fat shaming me,Abusive Language
+Who the fuck is driving on I-90 next to me bruh,Abusive Language
+Fuck Israel around the clock,Abusive Language
+How The Fuck Is Cyber Bullying Real,Abusive Language
+Nigga Just Walk Away From The Screen Like Nigga Close Your Eyes,Abusive Language
+He doesnt hit me but he always abuses me with his words disrespect,Abusive Language
+This could be you if you just lock the fuck in,Abusive Language
+Bitches be broke asf tryna bully niggas into spending money on them,Abusive Language
+BITCH YOU REALLY STILL WANNA BE MY FRIENDS WEIRD ASS HOE,Abusive Language
+Bitch always speaking on me and motherfuckers always letting me know,Abusive Language
+I deleted my tweets cause the fuck am going to keep bullying your ass for and you ain’t on shit,Abusive Language
+JAYCE YOU STUPID BITCH,Abusive Language
+this is all your fault nigga,Abusive Language
+hurry the fuck up,Abusive Language
+He got a point hospital food is ass,Abusive Language
+Bitches be broke asf tryna bully niggas into spending money on them,Abusive Language

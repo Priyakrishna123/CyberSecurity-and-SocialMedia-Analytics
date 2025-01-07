@@ -1,0 +1,13 @@
+tweet,label,TextBlob_Sentiment,VADER_Sentiment,Transformer_Sentiment,Sentiment_Category
+your feedback is appreciated now pay  8,Harassment,0.2,0.4404,POSITIVE,Positive
+the edia wants to take down x they arent even hiding it anyore,Positive Sentiment,0.022222222222222227,0.2235,NEGATIVE,Positive
+that is the last refuge of the woke ind parasite,Positive Sentiment,0.0,0.0,NEGATIVE,Neutral
+bluesky has a pedo proble its becoe a haven for minor attracted persons,Positive Sentiment,-0.05,0.4215,NEGATIVE,Positive
+what a coincidence,Other,0.0,0.0,POSITIVE,Neutral
+incredible shot by snap people are going to ride this skyscraper of an interplanetary rocket in the not too distant future and begin the greatest adventure in huan history,Positive Sentiment,0.45,0.7579,POSITIVE,Positive
+dont teach your children at hoe or they will be bored at school thats crazy,Offensive Language,-0.55,-0.5423,NEGATIVE,Negative
+my children are not hoeschooled but this is 100  and their teachers told e to stop doing it because y kids will end up getting bored and not feeling challenged in school currently looking at options,Personal Attacks,-0.25,-0.6768,NEGATIVE,Negative
+for a thousand reasons is and always will be y favorite watch,Offensive Language,0.5,0.4588,POSITIVE,Positive
+that was a great one,Other,0.8,0.6249,POSITIVE,Positive
+the people of britain have had enough of a tyrannical police state,Positive Sentiment,0.0,0.0,NEGATIVE,Neutral
+breaking  the petition calling for a new general election in britain has reached 1 illion signatures people are tired of socialist tyranny police state,Positive Sentiment,-0.07121212121212121,-0.3612,NEGATIVE,Negative
